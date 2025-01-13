@@ -1,1 +1,1 @@
-# Generating-one-token-at-time--UDACITY--Foundations-of-Generative-AI
+This exercise is meant to understand how a large language model (LLM) generates text--one token at a time, using the previous/initial tokens to predict the next ones.
